@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>History base</title>
+    <link rel='stylesheet' href="./style.css">
+</head>
+<body>
+<main>
+    <div id="list"></div>
+</main>
+<script src="https://www.gstatic.com/firebasejs/5.9.4/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/5.9.4/firebase-database.js"></script>
+<script>
+    // Initialize Firebase
+    var config = {
+        apiKey: "AIzaSyBeWK3sDyImbQNTWDF6qmiQaxRTvPZXd_Q",
+        authDomain: "history-task.firebaseapp.com",
+        databaseURL: "https://history-task.firebaseio.com",
+        projectId: "history-task",
+        storageBucket: "history-task.appspot.com",
+        messagingSenderId: "238139871437"
+    };
+    firebase.initializeApp(config);
+</script>
+<script src="./action.js"></script>
+</body>
+</html>

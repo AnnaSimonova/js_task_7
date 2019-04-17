@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body, main {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+#list {
+  width: 60%;
+  height: 400px;
+  overflow-y: auto;
+  margin: 2%;
+  padding: 2% 4%;
+  font-family: Verdana, sans-serif;
+  border: solid thin grey;
+}
+
+.block {
+  padding: 1% 2%;
+  margin-bottom: 20px;
+  background-color: lightgrey;
+}
+
+.date {
+  font-weight: bold;
+}

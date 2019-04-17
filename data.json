@@ -1,0 +1,67 @@
+{
+
+  "education": [
+
+    {
+
+      "date": 1990,
+
+      "title": "I was born in Katowice",
+
+      "someText":"Some text about me"
+
+    },
+
+    {
+
+      "date": 1991,
+
+      "title": "I was born in Katowice",
+
+      "someText":"Some text about me"
+
+    },
+
+    {
+
+      "date": 1992,
+
+      "title": "I was born in Katowice",
+
+      "someText":"Some text about me"
+
+    },
+
+    {
+
+    "date": 1995,
+
+    "title": "I was born in Katowice",
+
+    "someText":"Some text about me"
+
+    },
+
+    {
+
+      "date": 1996,
+
+      "title": "I was born in Katowice",
+
+      "someText":"Some text about me"
+
+    },
+
+    {
+
+      "date": 1998,
+
+      "title": "I was born in Katowice",
+
+      "someText":"Some text about me"
+
+    }
+
+  ]
+
+}
